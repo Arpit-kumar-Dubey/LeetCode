@@ -34,4 +34,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0228-summary-ranges](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0228-summary-ranges/) | Easy |
 <!---LeetCode Topics End-->
