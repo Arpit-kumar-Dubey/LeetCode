@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0043-multiply-strings/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0223-rectangle-area](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0223-rectangle-area/) | Medium |
 | [0231-power-of-two](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0231-power-of-two/) | Easy |
 ## Geometry
@@ -54,6 +55,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0043-multiply-strings/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
