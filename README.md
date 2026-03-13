@@ -60,6 +60,7 @@
 | [0043-multiply-strings](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0290-word-pattern](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0290-word-pattern/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,4 +73,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0290-word-pattern](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0290-word-pattern/) | Easy |
 <!---LeetCode Topics End-->
