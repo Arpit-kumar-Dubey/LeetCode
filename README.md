@@ -9,6 +9,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0223-rectangle-area](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0223-rectangle-area/) | Medium |
 | [0231-power-of-two](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0258-add-digits/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0258-add-digits/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,4 +108,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
