@@ -36,11 +36,13 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +50,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +70,7 @@
 | [0058-length-of-last-word](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0290-word-pattern/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -112,4 +116,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0258-add-digits/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
