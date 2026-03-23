@@ -58,6 +58,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
+| [0075-sort-colors](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0228-summary-ranges](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0228-summary-ranges/) | Easy |
@@ -108,11 +109,13 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0283-move-zeroes](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0147-insertion-sort-list](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
