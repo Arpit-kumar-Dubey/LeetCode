@@ -65,6 +65,7 @@
 | [0228-summary-ranges](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0228-summary-ranges/) | Easy |
 | [0283-move-zeroes](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1200-minimum-absolute-difference](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -121,6 +122,7 @@
 | [0075-sort-colors](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0147-insertion-sort-list](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1200-minimum-absolute-difference](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
