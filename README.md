@@ -63,6 +63,7 @@
 | [0228-summary-ranges](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0228-summary-ranges/) | Easy |
 | [0283-move-zeroes](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@
 | [0036-valid-sudoku](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0290-word-pattern](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0290-word-pattern/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +115,7 @@
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
