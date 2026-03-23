@@ -65,6 +65,7 @@
 | [0228-summary-ranges](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0228-summary-ranges/) | Easy |
 | [0283-move-zeroes](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Binary Search
@@ -72,6 +73,7 @@
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
