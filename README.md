@@ -61,6 +61,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0228-summary-ranges](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0228-summary-ranges/) | Easy |
+| [0283-move-zeroes](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -106,6 +107,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0283-move-zeroes](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
