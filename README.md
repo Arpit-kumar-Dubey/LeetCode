@@ -18,6 +18,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0231-power-of-two/) | Easy |
 ## Recursion
@@ -63,6 +64,7 @@
 | [0015-3sum](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0036-valid-sudoku](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0075-sort-colors](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0228-summary-ranges](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0228-summary-ranges/) | Easy |
@@ -145,6 +147,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
