@@ -70,6 +70,7 @@
 | [0075-sort-colors](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0169-majority-element](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0228-summary-ranges](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0228-summary-ranges/) | Easy |
 | [0283-move-zeroes](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -102,6 +103,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0169-majority-element](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -113,6 +115,7 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0169-majority-element](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0290-word-pattern](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Linked List
@@ -135,6 +138,7 @@
 | [0015-3sum](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0147-insertion-sort-list](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -165,4 +169,8 @@
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0112-path-sum/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
