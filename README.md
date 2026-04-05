@@ -77,6 +77,7 @@
 | [0078-subsets](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0198-house-robber](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0228-summary-ranges](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0228-summary-ranges/) | Easy |
 | [0283-move-zeroes](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -185,4 +186,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0097-interleaving-string](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0097-interleaving-string/) | Medium |
+| [0198-house-robber](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0198-house-robber/) | Medium |
 <!---LeetCode Topics End-->
