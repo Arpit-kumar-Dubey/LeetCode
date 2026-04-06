@@ -28,6 +28,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Tree
@@ -73,6 +74,7 @@
 | [0015-3sum](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0036-valid-sudoku](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -137,6 +139,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0283-move-zeroes](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -185,6 +188,11 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0097-interleaving-string](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0097-interleaving-string/) | Medium |
 | [0198-house-robber](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0198-house-robber/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
