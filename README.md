@@ -10,6 +10,7 @@
 | [0223-rectangle-area](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0223-rectangle-area/) | Medium |
 | [0231-power-of-two](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [0877-stone-game](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0877-stone-game/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@
 | [0283-move-zeroes](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Binary Search
@@ -194,8 +196,13 @@
 | [0042-trapping-rain-water](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0097-interleaving-string](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0097-interleaving-string/) | Medium |
 | [0198-house-robber](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0877-stone-game](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0877-stone-game/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
