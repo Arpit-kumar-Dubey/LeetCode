@@ -22,6 +22,7 @@
 | [0078-subsets](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0397-integer-replacement](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +197,7 @@
 | [0042-trapping-rain-water](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0097-interleaving-string](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0097-interleaving-string/) | Medium |
 | [0198-house-robber](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0397-integer-replacement](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0877-stone-game](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0877-stone-game/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -205,4 +207,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0877-stone-game/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0397-integer-replacement](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0397-integer-replacement/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0397-integer-replacement](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 <!---LeetCode Topics End-->
