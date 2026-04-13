@@ -74,6 +74,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0035-search-insert-position](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -94,6 +95,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0704-binary-search](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
