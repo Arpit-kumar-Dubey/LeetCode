@@ -106,6 +106,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -231,4 +232,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0397-integer-replacement](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0397-integer-replacement/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
