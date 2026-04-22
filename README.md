@@ -7,6 +7,7 @@
 | [0043-multiply-strings](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0189-rotate-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0223-rectangle-area](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0223-rectangle-area/) | Medium |
 | [0231-power-of-two](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0258-add-digits/) | Easy |
@@ -87,6 +88,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0228-summary-ranges](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0228-summary-ranges/) | Easy |
@@ -164,6 +166,7 @@
 | [0088-merge-sorted-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0165-compare-version-numbers](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
+| [0189-rotate-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
