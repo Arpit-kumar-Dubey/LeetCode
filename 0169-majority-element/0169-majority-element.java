@@ -1,17 +1,19 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int count = 0;
-        Integer candidate = null;
-
-        for (int num : nums) {
- 
-            if (count == 0) {
-                candidate = num;
-            }
-            
-            count += (num == candidate) ? 1 : -1;
+        HashMap<Integer, Integer> m = new HashMap<>();
+        int max =0;
+        int Max =0;
+        for(int i : nums){
+        int c= m.getOrDefault(i,0);
+        m.put(i,c+1);
         }
-
-        return candidate;
+         for (int i : m.keySet())
+         {
+            if(m.get(i)>max){
+                max = m.get(i);
+                Max=i;
+            } 
+         } 
+         return Max;
     }
 }
