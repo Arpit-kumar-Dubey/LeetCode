@@ -75,6 +75,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0027-remove-element](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
@@ -162,6 +163,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0027-remove-element](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
