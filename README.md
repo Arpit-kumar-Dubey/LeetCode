@@ -81,6 +81,7 @@
 | [0036-valid-sudoku](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0055-jump-game](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0078-subsets/) | Medium |
@@ -221,6 +222,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0055-jump-game](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0097-interleaving-string](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0097-interleaving-string/) | Medium |
 | [0198-house-robber](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0397-integer-replacement](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0397-integer-replacement/) | Medium |
@@ -236,6 +238,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0397-integer-replacement](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
