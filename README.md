@@ -160,6 +160,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0147-insertion-sort-list](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
+| [0237-delete-node-in-a-linked-list](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
