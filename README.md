@@ -28,6 +28,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0231-power-of-two](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0231-power-of-two/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -164,6 +165,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0147-insertion-sort-list](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
