@@ -162,6 +162,7 @@
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0147-insertion-sort-list](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
@@ -176,6 +177,7 @@
 | [0042-trapping-rain-water](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0165-compare-version-numbers](https://github.com/Arpit-kumar-Dubey/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
